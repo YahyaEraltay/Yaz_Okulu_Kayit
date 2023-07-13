@@ -1,0 +1,6 @@
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\EntityLayer\obj\Debug\EntityLayer.pdb

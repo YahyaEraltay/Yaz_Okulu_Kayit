@@ -1,0 +1,9 @@
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

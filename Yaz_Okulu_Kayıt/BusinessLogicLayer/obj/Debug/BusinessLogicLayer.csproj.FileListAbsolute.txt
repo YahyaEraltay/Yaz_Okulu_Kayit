@@ -1,0 +1,11 @@
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Downloads\ASP.NET\Yaz_Okulu_Kayıt\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
